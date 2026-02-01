@@ -1,8 +1,8 @@
-# 🚀 Grothera Softech
+# 🚀 Growthera Softech
 
 **Begin your tech journey with hands-on internship training**
 
-Welcome to **Grothera Softech** 👋  
+Welcome to **Growthera Softech** 👋  
 We are a growing technology-driven organization focused on **real-world projects, skill-based learning, and industry-ready development experience**.
 
 ---
